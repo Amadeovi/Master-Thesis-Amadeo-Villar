@@ -15,7 +15,7 @@ To build the graphs and BNs examples: *Model Chapter 3.R*
 
 #### Chapter 4: <br />
 Gaussian Bayesian Network example: *Gaussian BN Chapter 4.R* <br />
-Pair Copula Bayesian Network example: *Diamond shape PCBN example 1.R* <br />
+Pair Copula Bayesian Network example: *Diamond shape PCBN.R* <br />
 Example Gaussian PCBN: *Gaussian Copula BN.R* <br />
 
 #### Chapter 5: <br />
@@ -36,6 +36,7 @@ Elaboration of figures and tables: *Sim Study Chapter 6 Tables Figures.R*  <br /
 For checking adjancency matrix, all the 4 files starting with Adj Matrix <br />
 
 #### Chapter 7: <br />
-Motivation of our proposed approximation: *Diamond Shape PCBN example 2.R* <br />
+Shortcoming CD Vine approximation: *Shortcomings CD Vine procedure.R* <br />
+Motivation of our proposed approximation: *Diamond Shape PCBN.R* <br />
 Simulation Study Chapter 7: *Simulation Study Chapter 7.R* <br />
-Proposed algorithms and showing its performance for the Diamond-shape PCBN: *Diamond Shape PCBN example 2.R* <br />
+Proposed algorithms and showing its performance for the Diamond-shape PCBN: *Diamond Shape PCBN.R* <br />
